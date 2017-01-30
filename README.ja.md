@@ -1261,7 +1261,7 @@ $ git pull
 $ mv vendor /tmp/bar
 $ make install
 ```
-- バイナリファイルは`$GOPARH/bin`以下に作成される
+- バイナリファイルは`$GOPATH/bin`以下に作成される
 
 ---
 
